@@ -1,4 +1,4 @@
-### Hello 👋
+### Hi
 
 
 - 🔭 I’m currently working on Division of Computer Engineering in Hankuk University of Foreign Studies
