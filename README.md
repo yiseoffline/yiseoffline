@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Computer Engineering
 - 📫 How to reach me: lsy0476@hufs.ac.kr
 
-안녕하세요 !!
+안녕하세요 !
 
 이서연이라고 합니당 ~
 한국외대 컴퓨터공학부에 재학중입니당 ~  
