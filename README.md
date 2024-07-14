@@ -3,12 +3,8 @@
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: lsy0476@hufs.ac.kr
 
-<summary>Github Stats</summary>
-  <div align="center">
-    [![Seo Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiseoffline)](https://github.com/yiseoffline/github-readme-stats)
-  </div>
+Github Stats
+[![Seo Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiseoffline)](https://github.com/yiseoffline/github-readme-stats)
 
-<summary>Top Languages</summary>
-  <div align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiseoffline&layout=compact)
-  </div>
+Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiseoffline&layout=compact)
