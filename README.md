@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Seo+Yeon;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;I'm+Seo+Yeon)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: lsy0476@hufs.ac.kr
