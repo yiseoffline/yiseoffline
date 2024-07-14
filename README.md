@@ -32,7 +32,6 @@
 <br/>
 
 ## Skills I've used
-<hr />
 <br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript" />
