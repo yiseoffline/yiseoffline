@@ -1,11 +1,13 @@
 ## Seo Yeon
 
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning **Computer Science**
 - 📫 How to reach me: lsy0476@hufs.ac.kr
+<br/>
 
 ## My Github Stats
 <details>
-<summary>📊Github Stats</summary>
+<summary>📊 Github Stats</summary>
+  <br/>
   <div align="center">
     <a href="https://github.com/bi-sz/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/?username=yiseoffline&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Seo Yeon's GitHub stats" />
@@ -21,7 +23,8 @@
 
 
 <details>
-<summary>🌐Top Languages</summary>
+<summary>🌐 Top Languages</summary>
+  <br/>
   <div align="center">
     <a href="https://github.com/bi-sz/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiseoffline&layout=compact" alt="Top Langs" />
