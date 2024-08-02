@@ -1,4 +1,5 @@
-## Seo Yeon
+## Seo Yeon 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyiseoffline&count_bg=%2333B700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🌱 I’m currently learning **Computer Science**
 - 📫 How to reach me: lsy0476@hufs.ac.kr
