@@ -55,6 +55,6 @@
 <br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript" />
-  <img src="https://skillicons.dev/icons?i=react,tailwind,materialui" /><br>
+  <img src="https://skillicons.dev/icons?i=react,electron,next,tailwind,materialui" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,idea,spring,github,git,postman,arduino" />
 </div>
