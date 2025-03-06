@@ -58,3 +58,11 @@
   <img src="https://skillicons.dev/icons?i=react,electron,next,tailwind,materialui" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,idea,spring,github,git,postman,arduino" />
 </div>
+
+## 100$ 짜리 뱀 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yiseoffline/yiseoffline/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yiseoffline/yiseoffline/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://yiseoffline.github.io/yiseoffline/github-snake.svg" />
+</picture>
