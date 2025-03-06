@@ -59,7 +59,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,idea,spring,github,git,postman,arduino" />
 </div>
 
-## 100$ 짜리 뱀 
+## Github Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yiseoffline/yiseoffline/blob/output/github-snake-dark.svg" />
