@@ -1,5 +1,4 @@
 ## Seo Yeon 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyiseoffline&count_bg=%2333B700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsy0476)](https://solved.ac/profile/lsy0476)
 [![wakatime](https://wakatime.com/badge/user/018e5477-a400-4362-8752-3b2ff7159423.svg)](https://wakatime.com/@018e5477-a400-4362-8752-3b2ff7159423)
