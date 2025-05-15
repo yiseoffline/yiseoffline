@@ -46,9 +46,9 @@
 ## Skills I've used
 <br />
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript" />
-  <img src="https://skillicons.dev/icons?i=react,electron,next,tailwind,materialui" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,spring,github,git,postman,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,electron,next,vite" /><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,vscode,github,git,postman,arduino" />
 </div>
 
 ## Github Snake
