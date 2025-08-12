@@ -1,6 +1,4 @@
 ## Seo Yeon 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsy0476)](https://solved.ac/profile/lsy0476)
 [![wakatime](https://wakatime.com/badge/user/018e5477-a400-4362-8752-3b2ff7159423.svg)](https://wakatime.com/@018e5477-a400-4362-8752-3b2ff7159423)
 <br/>
 
@@ -28,16 +26,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiseoffline&layout=compact" alt="Top Langs" />
     </a>
   </div>
-</details>
-
-<details> 
-<summary> 🥈 BOJ Stats</summary>
- <div align = "center">
-  
-   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsy0476)](https://solved.ac/lsy0476)<br>
-  <img src="http://mazandi.herokuapp.com/api?handle=lsy0476&theme=warm"/> 
- 
- </div>
 </details>
 <br/>
 <br/>
