@@ -3,7 +3,7 @@
 <br/>
 
 - 🌱 I’m currently learning **Computer Science**
-- 📫 How to reach me: lsy0476@hufs.ac.kr
+- 📫 How to reach me: lsy0476@naver.com
 <br/>
 
 ## My Github Stats
