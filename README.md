@@ -38,11 +38,3 @@
   <img src="https://skillicons.dev/icons?i=react,electron,next,vite" /><br>
   <img src="https://skillicons.dev/icons?i=tailwind,materialui,vscode,github,git,postman,arduino" />
 </div>
-
-## Github Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yiseoffline/yiseoffline/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yiseoffline/yiseoffline/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://yiseoffline.github.io/yiseoffline/github-snake.svg" />
-</picture>
