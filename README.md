@@ -3,6 +3,7 @@
 <br/>
 
 - 🌱 I’m currently learning **Computer Science**
+- 🏢 I'm working as a software developer.
 - 📫 How to reach me: lsy0476@naver.com
 <br/>
 
