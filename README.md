@@ -35,7 +35,7 @@
 ## Skills I've used
 <br />
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,c#,html,css,javascript,typescript" />
-  <img src="https://skillicons.dev/icons?i=react,electron,next,vite,oracle" /><br>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,electron,next,vite" /><br>
   <img src="https://skillicons.dev/icons?i=tailwind,materialui,vscode,github,git,postman,arduino" />
 </div>
