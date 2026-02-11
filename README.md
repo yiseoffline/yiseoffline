@@ -31,7 +31,12 @@
 <br/>
 <br/>
 
-
+## Awards
+ - 2025-1 HUFS 캡스톤 설계 및 실습 (최우수상)
+ - 한국외국어대학교 CHALLKATHON (대상)
+ - K-HTML 해커톤 대회 (우수상)
+  <br/>
+  
 ## Skills I've used
 <br />
 <div align="center">
